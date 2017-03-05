@@ -1,0 +1,36 @@
+<div class="jumbotron">
+  <div class="container">
+    <h1 class="display-3">Warsaw JS</h1>
+    <p>We talk about JavaScript. Every month in Warsaw, Poland.</p>
+  </div>
+</div>
+
+<div class="album text-muted">
+  <div class="container">
+
+    <app-video-player [video]="video" *ngIf="video"></app-video-player>
+
+    Your serach query: {{ searchFor }}
+
+    <form class="form-inline my-2 my-lg-0">
+      <input [(ngModel)]="searchFor" name="search" class="form-control mr-sm-2" type="text" placeholder="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Szukaj</button>
+    </form>
+
+    <div class="row video-container">
+      <div class="card" *ngFor="let video of videos | async | filter: searchFor">
+        <a routerLink="/video/{{video.id}}">
+          <img class="card-img-top" [src]="video.thumb" alt="{{ video.thumb }}">
+        </a>
+        <div class="card-block">
+          <h4 class="card-title">{{ video.title }}</h4>
+          <p class="card-text">{{ video.description }}</p>
+          <a (click)="onVideoClick(video)" href="#" class="btn btn-primary">Zobacz!</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<template ngbModalContainer></template>

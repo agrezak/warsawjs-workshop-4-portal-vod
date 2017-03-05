@@ -1,0 +1,1656 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/gGpppunkc19pDUV7TKgVc1k67_A\"",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "PL",
+  "pageInfo": {
+    "totalResults": 155,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/9Yt8QB2aTA1i4xPXYUznipGKyDM\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FR0UvfEIUnI"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-28T00:56:25.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #30 - Invitation",
+        "description": "Termin: 2017-02-08 godz. 18:30 Miejsce: The Place: http://bit.ly/warsawjs-the-place Skontaktuj się z nami: contact@warsawjs.com ⚡   Agenda ⚡   ➨ Piotr Stapp: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FR0UvfEIUnI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FR0UvfEIUnI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FR0UvfEIUnI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/RMNhAGux2_znh93hGz-YwXLfd-M\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5003uFm7WSE"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-24T07:13:23.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #27 - Invitation",
+        "description": "Termin: 2016-11-09 godz. 18:30 Miejsce: http://panstwomiasto.pl/ Skontaktuj się z nami: contact@warsawjs.com ⚡   Agenda ⚡   ➨ Michał Janaszek: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5003uFm7WSE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5003uFm7WSE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5003uFm7WSE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/_5NEK5F38LN_7IKh4MR-hXHdrbM\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Rj7a_QrsNwc"
+      },
+      "snippet": {
+        "publishedAt": "2016-05-02T16:33:16.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #21 - Invitation",
+        "description": "Termin: 2016-05-11 godz. 18:30 Miejsce: http://panstwomiasto.pl/ Oficjalny hashtag eventu: #warsawjs21 Skontaktuj się z nami: contact@warsawjs.com ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rj7a_QrsNwc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rj7a_QrsNwc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rj7a_QrsNwc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/yhGY0vY1nbYVwte29FbCYjOBMqg\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NtErU3Jbt78"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-23T08:31:48.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "Piotr Kowalski: New collections in JS: Map, Set, WeakMap, WeakSet [PL] - 2016-09-14 - WarsawJS #25",
+        "description": "Slajdy: https://piecioshka.github.io/slides-map-set-weakmap-weakset/ Mamy już 2016 rok. Dlaczego ciągle korzystamy z tablic, skoro mamy sprecyzowane ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NtErU3Jbt78/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NtErU3Jbt78/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NtErU3Jbt78/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/CFT3Gt0_N7ziZ_m0RAwYweoTgtE\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bYRttV7d0iI"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-05T06:48:35.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #25 - Invitation",
+        "description": "Termin: 2016-09-14 godz. 18:30 Miejsce: http://panstwomiasto.pl/ Oficjalny hashtag eventu: #warsawjs25 Skontaktuj się z nami: contact@warsawjs.com ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bYRttV7d0iI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bYRttV7d0iI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bYRttV7d0iI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/Zeq5PJHo6GmijalC-Y_UxcMCGvU\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SonmrR01vu4"
+      },
+      "snippet": {
+        "publishedAt": "2015-07-30T06:29:39.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "Mateusz Kocz: Angular 2 – krótkie wprowadzenie [PL] - 2015-07-22 - WarsawJS Meetup #11",
+        "description": "Slajdy: http://mateuszkocz.github.io/warsawjs-presentation/ Co się zmieniło, a co zostało po staremu? Czy to nadal nasz ulubiony framework? Czy może ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SonmrR01vu4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SonmrR01vu4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SonmrR01vu4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/tiLKN9StQljPFZOMqWocXS8-yck\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7OK4i9HkXBQ"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-27T11:04:05.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "Mariusz Lichota: Aplikacja backendowa w Node.js z bazą danych Oracle [PL] - WarsawJS Meetup #15",
+        "description": "Slajdy: http://marlic7.github.io/warsawjs-nodejs-and-oracle/ Opowiem o Node.js i o komunikacji z bazą danych Oracle z poziomu Noda.js bazując na własnych ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7OK4i9HkXBQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7OK4i9HkXBQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7OK4i9HkXBQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/mBf02gjR6zTpUpSv5yQlAJ_X0Vg\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HkEITLTFE6c"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-10T11:43:15.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #26 - Invitation",
+        "description": "Termin: 2016-10-12 godz. 18:30 Miejsce: http://panstwomiasto.pl/ Oficjalny hashtag eventu: #warsawjs26 Skontaktuj się z nami: contact@warsawjs.com ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HkEITLTFE6c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HkEITLTFE6c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HkEITLTFE6c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/84JJcAG6SqwwmwqpC8HiBp3In7Y\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2lX4-QVkNoI"
+      },
+      "snippet": {
+        "publishedAt": "2015-12-18T13:45:09.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "Tomasz Netczuk: React Native, natywna aplikacja mobilna w JS [PL] - 2015-12-16 - WarsawJS Meetup #16",
+        "description": "Slajdy: http://www.slideshare.net/TomaszNetczuk/react-native-czyli-zaprogramujmy-aplikacj-natywn-w-js W trakcie prelekcji omówię architekturę React Native.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2lX4-QVkNoI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2lX4-QVkNoI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2lX4-QVkNoI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/vrGSqMaAL9D8jidGDtPz-cc-g_g\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uBp4lheDXZI"
+      },
+      "snippet": {
+        "publishedAt": "2016-05-19T20:01:47.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "Andriy Mykulyak: Webpack - co to jest i z czym go jeść? [PL] - 2016-05-11 - WarsawJS Meetup #21",
+        "description": "Slajdy: https://mykulyak.github.io/warsawjs-slides-webpack/ Chcę opowiedzieć o jednym z podstawowych narzędzi frontendowców. Zostało ono stworzone w ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uBp4lheDXZI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uBp4lheDXZI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uBp4lheDXZI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/FVYdqYi35d91IbHKhGY8SwX_89Y\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_yAHR0siPQo"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-08T11:23:45.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #29 - Invitation",
+        "description": "Termin: 2017-01-11 godz. 18:30 Miejsce: https://www.facebook.com/warsawplace Skontaktuj się z nami: contact@warsawjs.com ⚡   Agenda ⚡   ➨ Andrzej ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_yAHR0siPQo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_yAHR0siPQo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_yAHR0siPQo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/ddVdLDcjrthVy_gE6XdwrmSUN8A\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D1vql7kvp90"
+      },
+      "snippet": {
+        "publishedAt": "2016-07-06T08:14:35.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #23 - Invitation [PL]",
+        "description": "Termin: 2016-07-13 godz. 18:30 Miejsce: http://panstwomiasto.pl/ Oficjalny hashtag eventu: #warsawjs23 Gościnnie wystąpili: Michał Nowak - Mistrz Polski w ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D1vql7kvp90/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D1vql7kvp90/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D1vql7kvp90/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/4XMnUxQCr_JGzve8nwGwAOo6i6M\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Gr1VjSjtAdQ"
+      },
+      "snippet": {
+        "publishedAt": "2014-12-19T14:34:19.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "Piotr Błaszczak: Large Applications Routing Using AngularJS UI-Router [EN] - WarsawJS Meetup #4",
+        "description": "Slajdy: http://myflowpl.github.io/talk-ui-router/slides/ WarsawJS Meetup #4 - 2014-12-15 Facebook: https://www.facebook.com/warsawjs Twitter: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gr1VjSjtAdQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gr1VjSjtAdQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gr1VjSjtAdQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/LDMruXpBoiZPWRph-hEcXfLx22o\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TkqiUG3j_Xw"
+      },
+      "snippet": {
+        "publishedAt": "2015-07-01T08:11:00.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "Tomasz Ducin: Enterprise Interface Architecture: JSON Schema [EN] - 2015-06-17 - WarsawJS #10",
+        "description": "Slides: http://slides.com/ducin/json-schema JSON is the most widely used data exchange/definition language in the web. It's as flexible as XML and as concise ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TkqiUG3j_Xw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TkqiUG3j_Xw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TkqiUG3j_Xw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/Mp-lu3UkHFSANTuawkHLRK-Fvos\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w0AOqhzWK3E"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-15T15:02:52.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "Kamil Grabek: GraphQL in a nutshell [PL] - WarsawJS Meetup #27",
+        "description": "Slajdy: http://g3f4.xyz/graphql-in-a-nutshell/ Workshop: https://github.com/G3F4/express-graphql-workshop Nowe podejście do komunikacji w aplikacjach ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w0AOqhzWK3E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w0AOqhzWK3E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w0AOqhzWK3E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/gJeuhZhL6XIq5djgjIOTLMtf0rk\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "knmaXx3yNts"
+      },
+      "snippet": {
+        "publishedAt": "2016-04-20T15:45:32.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "Norbert Sienkiewicz: My first time with Angular 2 [PL] - 2016-04-13 - WarsawJS Meetup #20",
+        "description": "Slajdy: http://norbertes.github.io/warsawjs-ng2-first-steps/ Wprowadzenie do frameworka Angular2 (zmiany względem jedynki, nowości, co jest lepsze, czemu ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/knmaXx3yNts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/knmaXx3yNts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/knmaXx3yNts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/g5jowK6tpw8ADDMSPx7PoNShdok\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zdunjYAyoJw"
+      },
+      "snippet": {
+        "publishedAt": "2016-04-21T06:36:59.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "Robert Gurgul: Idea reaktywnego programowania [PL] - 2016-04-13 - WarsawJS Meetup #20",
+        "description": "Slajdy: http://rgurgul.github.io/rx/ Wprowadzenie do programowania reaktywnego w oparciu o kilka praktycznych przykładów. Wyjaśnienie na czym polega ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zdunjYAyoJw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zdunjYAyoJw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zdunjYAyoJw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/rZvCXhT3Sl7PNrQjroPcgfw4PL8\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6HS2nvf7BAI"
+      },
+      "snippet": {
+        "publishedAt": "2014-11-29T08:05:59.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "Konrad Kowalski i Robert Kawecki: Wzorce projektowe dla aplikacji enterprise w Node.js - WarsawJS #3",
+        "description": "WarsawJS #3 - 2014-11-24 Slajdy: http://rootsher.github.io/warsawjs-presentation-template/ Facebook: https://www.facebook.com/warsawjs Twitter: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6HS2nvf7BAI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6HS2nvf7BAI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6HS2nvf7BAI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/qSkMtwvs5SarJ1XfPouszsmk-hs\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2YEE5W8HdKk"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-19T12:59:36.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "Dominik Lubański: Web Components. Are we there yet? [PL] - WarsawJS Meetup #26",
+        "description": "Slajdy: http://slides.com/smalluban/webcomponents What really are web components? How they work? Can we use them today? Let's find out! Kontakt do ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2YEE5W8HdKk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2YEE5W8HdKk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2YEE5W8HdKk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/UOmuu6lB-OAY5iLr6DeVdOKWGoM\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWheGKpArKLQkboqLobdGC8-H"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-28T00:36:31.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #30",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FR0UvfEIUnI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FR0UvfEIUnI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FR0UvfEIUnI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/Qd-k4iVqJTIPSHKexw_TZU9LRNg\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhfD5NxnIBWlWtRPIpv2akDN"
+      },
+      "snippet": {
+        "publishedAt": "2015-06-26T12:40:01.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #10",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A960ZbLDHLE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A960ZbLDHLE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A960ZbLDHLE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/CIaJYzG4Yrff70l496qGgzCjtN0\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWheKCuU8COV638N9C5_vB5Lc"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-28T23:20:56.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #19",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lgTflzNdSTQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lgTflzNdSTQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lgTflzNdSTQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/p0Z3xBiZEKpFlnFi_A2EIliHbZs\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWheUJ4cHxPO1Ov56SEG5qZZ0"
+      },
+      "snippet": {
+        "publishedAt": "2015-05-25T13:49:20.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #9",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4MIBdo-sOrs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4MIBdo-sOrs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4MIBdo-sOrs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/acN1HmFigcBqWuZnon8JQPrr8tE\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhcZKkLMmyN8XuwvZ03hXz9R"
+      },
+      "snippet": {
+        "publishedAt": "2014-11-28T17:32:48.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #3",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Nq0sEvunhI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Nq0sEvunhI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Nq0sEvunhI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/Y9pr0otkgcyO85X7sNDjsRgHBAo\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhcejSJ9Di1be6WWazrcdZeG"
+      },
+      "snippet": {
+        "publishedAt": "2015-01-21T13:05:37.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #5",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BDznkMEjcbQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BDznkMEjcbQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BDznkMEjcbQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/fMolH47c7nJrGbQCo79CcvwgRao\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWheCBc0K0EBmcuiv62U_Rw5I"
+      },
+      "snippet": {
+        "publishedAt": "2015-10-26T12:31:16.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #14",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SsVvykIX4dQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SsVvykIX4dQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SsVvykIX4dQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/7TtOq2Qh77Ef65NlayewJK6nwEc\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhemQ8geKfLLrfYsa9Wiy80p"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-03T17:25:48.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #25",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bYRttV7d0iI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bYRttV7d0iI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bYRttV7d0iI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/P1JPtCMc1kEEPctlXqt53ZBvDf8\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhdLZPoE7uZ9o6-CKYb93IpU"
+      },
+      "snippet": {
+        "publishedAt": "2015-12-12T23:56:21.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #16",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LZkyx006FlE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LZkyx006FlE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LZkyx006FlE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/SS7jjHE0wzQduoL9DVz3iwJUkDk\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhdegA_7wHq5fVgWmKwPiqA0"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-08T06:26:27.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #24",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wlG4akSDQ8g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wlG4akSDQ8g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wlG4akSDQ8g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/4AQZPaG5RL4BH6QbeMnRpytRkhY\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhc1-IhuAjxBOM3N4KWPjmmX"
+      },
+      "snippet": {
+        "publishedAt": "2015-07-28T10:49:45.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #11",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ryDB1jLilQQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ryDB1jLilQQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ryDB1jLilQQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/w7L8mxr2olVhs5E-G10ThGjb6N8\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhfuYD5uM9Hkb4NNagUWMmcG"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-10T11:41:36.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #26",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HkEITLTFE6c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HkEITLTFE6c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HkEITLTFE6c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/qtRPo8WKQ2A1dB2HQP49gnT07UM\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhdueCmMoAtiBr5JaZvWzo9M"
+      },
+      "snippet": {
+        "publishedAt": "2015-09-17T11:20:17.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #13",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YHQlQmTwO9s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YHQlQmTwO9s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YHQlQmTwO9s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/hygPqyY7qQhDii6AS_CqnVcjIeY\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhf1uY7ZvqezjT5xQ126UNrg"
+      },
+      "snippet": {
+        "publishedAt": "2015-08-21T13:09:23.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #12",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jGxAsTl4a6A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jGxAsTl4a6A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jGxAsTl4a6A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/PN_flNokPLtVTOT9NoSOAQE8J3k\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhf9g-OTNuTuElARGNg-ehg3"
+      },
+      "snippet": {
+        "publishedAt": "2016-07-05T21:34:31.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #23",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D1vql7kvp90/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D1vql7kvp90/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D1vql7kvp90/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/b5dua_g5NDzVLHtu2d-75s2Umpk\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWheFFPRnTdhDfSsVO7XGVwH_"
+      },
+      "snippet": {
+        "publishedAt": "2014-09-14T21:41:36.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "Zaproszenia",
+        "description": "Lista wszystkich zaproszeń na WarsawJS.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nF_7xdzesT8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nF_7xdzesT8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nF_7xdzesT8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/KM3p590oAxXM6me-sw-SP7dRRAg\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhf7BY76SaglrafPPY7kpTxy"
+      },
+      "snippet": {
+        "publishedAt": "2016-06-04T13:53:41.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #22",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iHiBBiwebs0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iHiBBiwebs0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iHiBBiwebs0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/LVCi8Tw2cI2qVD9SzrkzTL92DEs\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhfAKaCfq2LEuIvEftIcZ0im"
+      },
+      "snippet": {
+        "publishedAt": "2014-12-19T13:34:23.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #4",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IfQHMaGTXYo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IfQHMaGTXYo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IfQHMaGTXYo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/AAqXcDlpi7i_OaHOQxJXf6I52aQ\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhcsNMKNOYMic_GtqXf3rGI4"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-01T17:40:50.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #15",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0eER57taqes/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0eER57taqes/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0eER57taqes/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/HjrMkkWuURw1DDk8bfObdMf2izs\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhfOBaX-ryT25Pfi6yPZMZXo"
+      },
+      "snippet": {
+        "publishedAt": "2014-10-05T07:28:25.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #1",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nF_7xdzesT8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nF_7xdzesT8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nF_7xdzesT8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/xlxxhC-aH66RHGx5OdaGe_bsiws\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhdjWHbusjUBXbyVqTWyKgSG"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-11T22:21:35.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #28",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OLV5tf0a8cI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OLV5tf0a8cI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OLV5tf0a8cI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/R0wS-ajQaiSjoTP1CJHfa4Ap3cI\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhdihTs5XsK5SwnIkDb9O22B"
+      },
+      "snippet": {
+        "publishedAt": "2015-03-25T16:03:25.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #7",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MFX1jRty5y8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MFX1jRty5y8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MFX1jRty5y8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/6z0fezG3wdqpWgpIpMvHD7AGqEM\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhdXGzxaD8akQprBrWY2IbrG"
+      },
+      "snippet": {
+        "publishedAt": "2016-01-10T02:45:44.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #17",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DX8CDC3u3XE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DX8CDC3u3XE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DX8CDC3u3XE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/I01_c5NbhS44kMWRZjInPB3eF_E\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhe789BAqzUZFYAAcY0nqaDY"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-08T11:14:56.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #29",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_yAHR0siPQo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_yAHR0siPQo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_yAHR0siPQo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/-9THGpuanrog2FzKdpzh-faLkjI\"",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg"
+      },
+      "snippet": {
+        "publishedAt": "2014-08-23T09:34:09.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS",
+        "description": "We talk about JavaScript. Every month in Warsaw, Poland.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-5NK3AZifd34/AAAAAAAAAAI/AAAAAAAAAAA/bCoZmKDSJCE/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-5NK3AZifd34/AAAAAAAAAAI/AAAAAAAAAAA/bCoZmKDSJCE/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-5NK3AZifd34/AAAAAAAAAAI/AAAAAAAAAAA/bCoZmKDSJCE/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/PSJphMHKggkX06fXQ7mr7YbCLPw\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhds_0fQaEHXh5ca9aCMq1BL"
+      },
+      "snippet": {
+        "publishedAt": "2016-05-02T16:33:06.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #21",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rj7a_QrsNwc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rj7a_QrsNwc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rj7a_QrsNwc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/tSa-cEG2MISVZIP_t357Q3hwJMc\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhcRGZPjYPoGvbBJq9sF9hdK"
+      },
+      "snippet": {
+        "publishedAt": "2016-01-24T20:21:13.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #18",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NGDHnj6T5P4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NGDHnj6T5P4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NGDHnj6T5P4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/siUE4_4G9b4V-4-xrWigS3mU6Gw\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhfupNkal3nPCKtUGhtdCiM1"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-23T21:18:09.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #27",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5003uFm7WSE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5003uFm7WSE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5003uFm7WSE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/-HUoUgY9mV2dSgej94Qm_YfbJKg\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhdDcshmGDU2G-pDJHBJPe8r"
+      },
+      "snippet": {
+        "publishedAt": "2015-04-18T08:46:47.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #8",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zLFjxwRbwaM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zLFjxwRbwaM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zLFjxwRbwaM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/Ww5v1TpNDLyXBro6jJi2JpN_Ikw\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhc1fsiDzPtHoEK4w_YPzQeL"
+      },
+      "snippet": {
+        "publishedAt": "2014-10-30T12:25:32.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #2",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZMB966KkvK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZMB966KkvK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZMB966KkvK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/GYKAKkKv0s71we9y8axsVfCx66o\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLfdfqqNJDWhcxFxFcX0jDs5zFYLIdoH2N"
+      },
+      "snippet": {
+        "publishedAt": "2015-02-12T13:39:08.000Z",
+        "channelId": "UCzYf3wdKSKnR5lvkRVUyCYg",
+        "title": "WarsawJS Meetup #6",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UFnLb4ZnqlQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UFnLb4ZnqlQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UFnLb4ZnqlQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WarsawJS",
+        "liveBroadcastContent": "none"
+      }
+    }
+  ]
+}
